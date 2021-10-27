@@ -16,7 +16,7 @@ This repository is the official implementation of [FedCMR: Federated Cross-Modal
 > >
 > > data 存放数据集
 > >
-> > data_loader.py 加载特征向量
+> > data_loader.py 加载数据集
 > >
 > > utils.py 工具函数文件
 > >
@@ -50,7 +50,7 @@ This repository is the official implementation of [FedCMR: Federated Cross-Modal
      - 特征向量文件: FedCMR/data/MIR-Flickr25K
    + MS-COCO dataset<sup>6</sup>
      - 特征向量文件: FedCMR/data/MS-COCO
-   + 我们提供Pascal 数据集的特征文件。
+   + 我们提供Pascal数据集的特征文件。
 
 3. References
 
