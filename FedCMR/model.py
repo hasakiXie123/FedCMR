@@ -30,7 +30,7 @@ class TextNN(nn.Module):
 
 
 class IDCM_NN(nn.Module):
-    """Network to learn text representations"""
+    """A simple network to transform multi-modal representations"""
 
     def __init__(self, img_input_dim=4096, img_output_dim=2048,
                  text_input_dim=1024, text_output_dim=2048, minus_one_dim=1024, output_dim=10):
