@@ -67,7 +67,8 @@ This repository is the official implementation of [FedCMR: Federated Cross-Modal
 ## 第三方库
 
 * 拉取代码并在FedCMR目录下运行 **conda install --yes --file requirements.txt**
-* 请特别注意在代码中，我们使用了[PySyft库的0.2.9版本](https://github.com/OpenMined/PySyft/tree/PySyft/syft_0.2.x)（该版本目前已经不再被官方支持），只有安装该版本的PySyft库才能成功运行代码。
+* 请特别注意在代码中，我们使用了[PySyft库的0.2.9版本](https://github.com/OpenMined/PySyft/tree/syft_0.2.x)（该版本目前已经不再被官方支持），只有安装该版本的PySyft库才能成功运行代码。
+  
 
 ## 有问题反馈
 
